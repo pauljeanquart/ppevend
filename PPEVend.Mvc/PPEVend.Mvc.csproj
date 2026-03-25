@@ -6,4 +6,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <Target Name="Bundle" BeforeTargets="Build">
+    <Exec Command="npm run build --quiet" />
+  </Target>
+
 </Project>

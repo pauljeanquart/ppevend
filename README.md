@@ -1,5 +1,9 @@
 # ppevend
 proof of concept
-test
-test
+
+Words to use instead of shop
+- Claim
+- Collect
+- Pick Up
 adding branch protection
+
